@@ -14,7 +14,7 @@ with details the person chooses to share for the day or through-out the day comm
 ### 
 
 
-# Function of App.
+# DETAILS- DETAILS
 ## Header 2
 ### Header 3
 

@@ -4,34 +4,26 @@
 
 This App. has a photo share and text message area to share with their friends, family,
 and co-workers. A dating area to meet someone and hang out writing texts to eachother with photo share
-with details the person chooses to share for the day or through-out the day commenting to eachother.
+with details the person chooses to share for the day or through-out the day commenting to eachother. Messenger areas, Notes, Photos,Video share,GPS location share settings for personal & private share or on/off,phone calls and with ringers for ring tomes designed by Mona Hidalgo music production beats and sounds, private messages or public posts in organized section (s). emoji's by Mona Hidalgo. with other thingys to be listed.
+
 
 
 ## Functionality & Users
 
 * Any person can use the App. for private messages to their friends, family & co-workers in separate areas public and privately within the App.
 
-### 
-
-
-# DETAILS- DETAILS
-## Header 2
-### Header 3
 
 - Bulleted
 - List
 
-1. Numbered
+1. 
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 
 
 
 ### Support or Contact
 
-Mona Hidalgo
+Mona Hidalgo monaego@live.com 
+phone number 323-400-0421

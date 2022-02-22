@@ -13,11 +13,11 @@ with details the person chooses to share for the day or through-out the day comm
 * Any person can use the App. for private messages to their friends, family & co-workers in separate areas public and privately within the App.
 
 
-- Bulleted
-- List
+- 
+-  
 
 1. 
-2. List
+2. 
 
 
 
